@@ -1,0 +1,114 @@
+In virtual reality which of the senses cannot currently be portrayed? *
+1 point
+Sight
+Smell
+Hearing
+Touch
+A computer expert produces an solution with HCI which is very efficient in computer resources, based on command-lines. Which one of the following is most likely to be the result when the system is implemented *
+1 point
+Most staff will feel demoralised and will not want to use the system.
+Most staff will want to become computer experts to use it.
+It will be welcomed by all staff.
+All staff will enjoy using it after mastering the skills of command lines.
+The definition of computer and computing has changed over time and will continue to change. *
+1 point
+False
+True
+Wikipedia contains human-generated content; therefore, it is a reliable source for research *
+1 point
+True
+False
+Which one of these is a good reason to include sounds in an HCI? *
+1 point
+Users react more quickly to sounds than to visual signals
+There is no preference. People just like sounds
+The computer reacts to sounds in the same way as a human
+Users react more slowly to sounds than to visual signals
+A search engine depends on _______to find information on the web. *
+1 point
+grocery stores
+resturants
+computers
+humans
+This organizes websites by subject and is maintained by humans instead of software *
+1 point
+directories
+browsers
+web crawlers
+search engines
+A directory, unlike a search engine, is organized by __________ who discover new sites and relevant information by exploring the web themselves. *
+1 point
+grocery store
+restaurants
+humans
+computers
+HCI is based on psychological factors of humans? *
+1 point
+False
+True
+Which is the easiest way to get a list of definitions for a word, such as technology? *
+1 point
+technology
+Define: techology
+Definitions: technology
+What is technology
+Which of these films uses futuristic HCI *
+1 point
+Terminator
+Bambi
+Minority Report
+Speed
+Which of these is not a interface style? *
+1 point
+Voice Recognition
+Natural Language
+Menus
+Command line/command prompt
+What is a search engine spider? *
+1 point
+A programming error
+Adware and Malware
+Something that infects your computer
+A program that follows or "crawls" links through the internet, grabbing content from sites and adding it to search engine indexes
+Which one of these would NOT be found in a good HCI? *
+1 point
+Common short cuts, like CTRL+Z for undo.
+Sounds that convey meanings.
+A long command line to achieve a function
+Icons that can have specific meanings.
+Which one of these is a good reason for taking care to design a good computer human interface? *
+1 point
+Well designed HCIs use less computer resources.
+Not every user is a computer expert
+Well designed HCIs allow the computer to run faster
+Well designed HCIs allow the software to be sold at a better price.
+Which of the following is true about Blogs and Wikis? *
+1 point
+Blog is an advanced form of a wiki
+Wiki is centered around one person, blogs are centered around many
+Blogs have comments, wikis don't
+Blogs center around one person, wikis center around many.
+What is the key characteristic of Web 2.0 *
+1 point
+better design
+better sound
+sharing and openess
+user generated and content
+Which of the following is the correct way to search for an exact phrase *
+1 point
+(new york city)
+Exact: (new york city)
++new york city
+"new york city"
+A WHOLE website address is known as this. It also stands for URL *
+1 point
+Uniform Regular Lost site
+Undone Resource Locator
+Unfiltered Regular Location
+Uniform Resource Locator
+A unique set of numbers separated by periods that identifies each computer using the internet *
+1 point
+URL
+domain name
+IP address
+WWW
